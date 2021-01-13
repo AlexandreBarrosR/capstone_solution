@@ -1,0 +1,5 @@
+unique_id,timestamp,x_shape,eval_test,model_version,model_version_note,runtime
+c3ebccd7-070b-4738-816e-dbcfac2bdb61,1609684833.5014524,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+cb888e10-7e26-4b6d-8a03-399d0c443e63,1609684833.502453,"(100, 10)",{'rmse': 0.5},0.1,test model,00:00:01
+a176a40a-49db-4561-854c-9c1bb983f3c0,1609684881.8416128,495,eval_test TBD,0.1,TS Analysis Capstone,000:00:23
+42204619-07b8-49df-9daa-e1801d504bbe,1610400043.4450133,495,eval_test TBD,0.1,TS Analysis Capstone,000:00:21
